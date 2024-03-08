@@ -1,0 +1,4 @@
+chunkipy==0.5.1
+elasticsearch==8.12.1
+pandas==2.2.1
+sentence-transformers=2.5.1
