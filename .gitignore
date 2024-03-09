@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-.zip
-.csv
+*.zip
+*.csv
 
 # Distribution / packaging
 .Python
